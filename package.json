@@ -14,6 +14,9 @@
     "type" : "git",
     "url" : "https://github.com/joscha/replay.js.git"
   },
+  "scripts": {
+    "test": "grunt test"
+  },
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
