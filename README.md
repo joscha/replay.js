@@ -6,6 +6,7 @@ A simple recorder/proxy generator for JavaScript, that allows you to capture met
 [![Build Status](https://travis-ci.org/joscha/replay.js.png)](https://travis-ci.org/joscha/replay.js)
 [![NPM version](https://badge.fury.io/js/replay.js.png)](http://badge.fury.io/js/replay.js)
 [![Dependency Status](https://david-dm.org/joscha/replay.js.png)](https://david-dm.org/joscha/replay.js)
+[![devDependency Status](https://david-dm.org/joscha/replay.js/dev-status.png)](https://david-dm.org/joscha/replay.js#info=devDependencies)
 
 ## Test
 
