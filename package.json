@@ -1,0 +1,20 @@
+{
+  "name": "replay.js",
+  "description": "recording and replaying method calls",
+  "homepage": "http://github.com/joscha/replay.js",
+  "author": {
+    "name": "Joscha Feth"
+  },
+  "license": "MIT",
+  "version": "0.0.1",
+  "main": "./lib/replay",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "grunt": "~0.4.2",
+    "grunt-mocha-test": "~0.7.0",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-uglify": "~0.2.1",
+    "grunt-contrib-watch": "~0.4.4"
+  }
+}
