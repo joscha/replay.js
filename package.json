@@ -8,8 +8,12 @@
     "url" : "http://www.feth.com"
   },
   "license": "MIT",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/replay",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/joscha/replay.js.git"
+  },
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
