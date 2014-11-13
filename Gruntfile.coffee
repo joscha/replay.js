@@ -8,7 +8,6 @@ module.exports = (grunt) ->
                   * <%= pkg.homepage %>
                   * Copyright (c) <%= grunt.template.today("yyyy") %> <%= pkg.author.name %>; License: <%= pkg.license %>
                   */
-
               """
 
     mochaTest:
@@ -29,13 +28,13 @@ module.exports = (grunt) ->
       glob:
         options:
           sourceMap: true
-        expand: true,
-        flatten: true,
-        cwd: 'src/',
+        expand: true
+        flatten: true
+        cwd: 'src/'
         src: [
           '*.coffee'
         ],
-        dest: 'lib/',
+        dest: 'lib/'
         ext: '.js'
 
     uglify:
