@@ -60,7 +60,7 @@ module.exports = (grunt) ->
   grunt.loadNpmTasks 'grunt-contrib-uglify'
   grunt.loadNpmTasks 'grunt-contrib-watch'
 
-  grunt.registerTask 'dist', ['coffee', 'uglify']
+  grunt.registerTask 'dist', ['test', 'coffee', 'uglify']
 
   grunt.registerTask "test", ['mochaTest:test']
-  grunt.registerTask "default", ['test', 'dist']
+  grunt.registerTask "default", ['dist']
