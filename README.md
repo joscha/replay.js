@@ -15,9 +15,6 @@ A simple recorder/proxy generator for JavaScript, that allows you to capture met
 ## Installation
 `npm install replay.js` or just load within a browser (works with CommonJS, AMD and Vanilla JS)
 
-## Versions
-* **0.0.1**: Initial version
-
 ## Usage
 
 The following example records calls to the recorder and then replays them onto the `console`.
