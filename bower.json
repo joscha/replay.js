@@ -1,0 +1,32 @@
+{
+  "name": "replay.js",
+  "version": "0.0.4",
+  "homepage": "https://github.com/joscha/replay.js",
+  "authors": [
+    "Joscha Feth <joscha@feth.com>"
+  ],
+  "description": "recording and replaying method calls",
+  "main": "lib/replay.min.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "replay",
+    "recording",
+    "recorder"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src",
+    "Gruntfile.coffee",
+    "package.json",
+    "README.md"
+  ]
+}
