@@ -23,7 +23,7 @@ module.exports = (grunt) ->
           reporter: 'min'
         src: [
           'test/**/*.coffee'
-        ]        
+        ]
 
     coffee:
       glob:
