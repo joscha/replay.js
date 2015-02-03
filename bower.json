@@ -1,12 +1,12 @@
 {
   "name": "replay.js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://github.com/joscha/replay.js",
   "authors": [
     "Joscha Feth <joscha@feth.com>"
   ],
   "description": "recording and replaying method calls",
-  "main": "lib/replay.min.js",
+  "main": "lib/replay.js",
   "moduleType": [
     "amd",
     "es6",
