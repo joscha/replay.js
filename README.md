@@ -1,6 +1,8 @@
 replay.js
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/joscha/replay.js.svg)](https://greenkeeper.io/)
+
 A simple recorder/proxy generator for JavaScript, that allows you to capture method calls and replay them onto a given function/scope at a later point in time.
 
 [![Build Status](https://travis-ci.org/joscha/replay.js.png)](https://travis-ci.org/joscha/replay.js)
